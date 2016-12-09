@@ -5,7 +5,7 @@ author: "PEDRO CARVALHO BROM"
 
 ### **What do we have here?**
 
-In this repository you will find the code for creating the Shiny application of [false vs. True](supermetrica.shinyapps.io/efarsas/)
+In this repository you will find the code for creating the Shiny application of [false vs. True](https://supermetrica.shinyapps.io/efarsas/)
 
 There are only two files ui.R and server.R, which serve to evaluate how the page was built.
 
