@@ -29,4 +29,4 @@ News: Chinese have inaugurated what would be a revolution in means of transport:
 
 Now just paste in the respective fields in the entries and click on 'Query' and wait approximately 15 seconds. Take the test with other news. (Up to 5 queries allowed)
 
-<img align="left" img src="https://www.dropbox.com/s/trg6oum0ej763g7/print_efarsas.png?dl=1"/>
+<img align="left" img src="https://www.dropbox.com/s/lht79f56a016hpm/print_efarsas.jpg?dl=1"/>
