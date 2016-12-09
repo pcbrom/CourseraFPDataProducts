@@ -15,7 +15,7 @@ The predictive model links have been removed since the project is limited only t
 
 The technique used is logistic regression combined with machine learning. The intent is to calculate the probability of the news being true or false given your metrics of characters and words, using only the title and news information. The database was scraped from www.e-farsas.com and contains a total of 891 posts, of which approximately 74% are false. That is, according to the site we have more fake viral than true in circulating on the internet.
 
-## **Additional model considerations**
+### **Additional model considerations**
 
 In simpler terms we consider a 'good' model when its accuracy sensitivity and specificity are at least 80%. Therefore, we can consider that this model serves only as a 'joke of a guess'. The point that is bad is the classification of true news, because although the model is sensitive to information, the specificity is still very low and this implies in accusing true news as false. Kappa measurement is also important for a well-calibrated model. If it is close to 1 then the model is consistent with the training and test information.
 
